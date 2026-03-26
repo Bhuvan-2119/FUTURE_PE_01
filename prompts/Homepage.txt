@@ -36,18 +36,18 @@ TASK
 
 Generate homepage copy with the following structure:
 
-### 1. Headline  
+1. Headline  
 - 6–10 words  
 - Must communicate a strong outcome or transformation  
 - Avoid generic claims  
 - Should feel specific and benefit-driven  
 
-### 2. Subheadline  
+2. Subheadline  
 - 10–15 words  
 - Clearly define target audience + key benefit  
 - Add location relevance naturally  
 
-### 3. Intro Section (50–70 words)  
+3. Intro Section (50–70 words)  
 - Start with a relatable customer need or problem  
 - Present the business as the solution  
 - Highlight 2–3 key benefits or differentiators  
@@ -91,19 +91,6 @@ OUTPUT FORMAT
 Headline:  
 Subheadline:  
 Intro:  
-
----
-
-QUALITY CHECK (VERY IMPORTANT)
-
-Before finalizing, ensure:
-
-✔ Headline clearly shows value  
-✔ No generic or vague phrases  
-✔ Tone matches brand personality  
-✔ Reads smoothly and naturally  
-✔ Feels like real website content (not AI-generated)  
-✔ Encourages user to take action  
 
 ---
 
