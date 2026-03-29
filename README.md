@@ -271,3 +271,6 @@ It is designed to be:
 ✔ Real-world ready  
 
 ---
+## 🎓 Project Credit  
+
+Built under the Future Interns Prompt Engineering Internship, focusing on turning prompt engineering concepts into real-world business solutions.
