@@ -130,7 +130,7 @@ A single prompt combines everything to generate:
 ---
 
 ## 📂 Repository Structure  
-
+```
 FUTURE_PE_01
 │
 ├── README.md
@@ -148,7 +148,7 @@ FUTURE_PE_01
     ├── cta_output.txt
     ├── tone_adaptation_output.txt
     └── website_copy_output.txt
-    
+```
 ---
 
 ## 🧩 Prompt Modules  
